@@ -1,42 +1,46 @@
 <div align="center">
 
-# Hi there, I'm Sahil Moghaiz! 👋
+# 👋 Hi there, I'm Sahil Moghaiz!
 
-### ☁️ Cloud Data Engineer | AWS | Python | SQL
+### ☁️ Cloud & Data Engineering | AWS | Python | SQL
 
-📍 Chennai, India | 🎓 SRM Institute of Science and Technology
+🎓 B.Tech CSE (Cloud Computing) — SRM Institute of Science and Technology
+
+Building data pipelines, working with distributed systems, and exploring cloud technologies.
 
 </div>
 
 ---
 
-I'm a Computer Science Engineering student specializing in Cloud Computing, passionate about building cloud-based applications, data pipelines, and scalable data solutions.
-
-I enjoy working with Python, SQL, AWS, and data engineering technologies to solve practical problems and continuously improve my technical skills.
-
----
-
 ## 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-</p>
+### 💻 Programming & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 📊 Data Engineering & Processing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 📚 Currently Learning
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -46,34 +50,34 @@ I enjoy working with Python, SQL, AWS, and data engineering technologies to solv
 
 A data engineering project focused on weather and air quality data ingestion, streaming, workflow orchestration, and analytics.
 
-- Weather and air quality ingestion using Python APIs.
-- Kafka-based message ingestion.
-- Airflow workflow orchestration.
-- Kubernetes and Docker-based infrastructure.
-- Cloud analytics integration with Amazon Athena and Power BI.
+- Ingests weather and air quality data using Python APIs.
+- Uses Apache Kafka for streaming and message ingestion.
+- Uses Apache Airflow for workflow orchestration.
+- Uses Docker and Kubernetes for containerized workloads.
+- Integrates cloud analytics with Amazon Athena and Power BI.
 
-**Technologies:** Python, Apache Kafka, Apache Airflow, Kubernetes, Docker, AWS.
+**Tech Stack:** Python, Pandas, NumPy, Apache Kafka, Apache Airflow, Docker, Kubernetes, AWS.
 
-🔗 [View ClimatePulse](https://github.com/sahilmoghaiz/ClimatePulse)
+🔗 [View ClimatePulse Repository](https://github.com/sahilmoghaiz/ClimatePulse)
 
 ### 📊 CareerCompass — Student Placement Analytics
 
 A student placement analytics platform combining database design, SQL analytics, and Power BI dashboards.
 
-- MySQL database design.
-- 206 numbered SQL analytics queries.
-- Advanced SQL concepts and analytical queries.
-- Six-page Power BI dashboard.
+- Designed a MySQL database schema.
+- Developed 206 numbered SQL analytics queries.
+- Practiced advanced SQL concepts, including CTEs, CASE statements, and window functions.
+- Built a six-page Power BI dashboard.
 
-**Technologies:** MySQL, SQL, Power BI.
+**Tech Stack:** MySQL, SQL, Power BI.
 
-🔗 [View CareerCompass](https://github.com/sahilmoghaiz/CareerCompass)
+🔗 [View CareerCompass Repository](https://github.com/sahilmoghaiz/CareerCompass)
 
 ### 🎬 AWS Movie Recommendation Platform
 
-A movie recommendation application focused on frontend development and cloud-native architecture.
+A movie recommendation application focused on application development and cloud architecture.
 
-**Technologies:** React, JavaScript, AWS.
+**Tech Stack:** JavaScript, React, AWS.
 
 🔗 [View Movie Recommendation Platform](https://github.com/sahilmoghaiz/aws-movie-recommendation-platform)
 
@@ -81,27 +85,20 @@ A movie recommendation application focused on frontend development and cloud-nat
 
 ## 🤝 Let's Connect!
 
-I'm always interested in cloud computing, data engineering, and collaborating on interesting technical projects.
+I'm interested in cloud computing, data engineering, distributed processing, and building practical data solutions.
 
-<p>
-  <a href="https://www.linkedin.com/in/sahil-moghaiz-73b68b27a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sahilwillstudy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/sahilmoghaiz">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahil-moghaiz-73b68b27a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilwillstudy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/sahilmoghaiz)
 
 ---
 
-## 🎯 What I'm Currently Building
+## 🎯 Currently Focusing On
 
-I'm developing **ClimatePulse**, a cloud data engineering project that brings together data ingestion, Kafka streaming, workflow orchestration, and cloud analytics.
-
-I'm also strengthening my AWS, Python, SQL, and distributed data processing skills to build reliable and scalable data pipelines.
+- 🌦️ Developing ClimatePulse and understanding its end-to-end data pipeline.
+- ☁️ Strengthening AWS and cloud data engineering fundamentals.
+- ⚙️ Learning Snowflake, Databricks, and Linux.
+- 🔄 Improving my understanding of distributed data processing and workflow orchestration.
 
 ---
 
@@ -113,6 +110,6 @@ I'm also strengthening my AWS, Python, SQL, and distributed data processing skil
 
 <div align="center">
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Always learning. Always building.*
 
 </div>
