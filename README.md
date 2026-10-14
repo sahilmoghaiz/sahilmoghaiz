@@ -7,14 +7,16 @@
 🎓 B.Tech Computer Science Engineering — Cloud Computing  
 SRM Institute of Science and Technology, Chennai
 
-Building cloud projects, data pipelines, and analytics solutions.
+Building cloud data pipelines, distributed systems, and analytics solutions.
 
-<a href="https://github.com/sahilmoghaiz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sahil-moghaiz-73b68b27a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p>
+  <a href="https://github.com/sahilmoghaiz">
+    <img src="https://img.shields.io/badge/GitHub-sahilmoghaiz-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-moghaiz-73b68b27a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 </div>
 
@@ -23,15 +25,16 @@ Building cloud projects, data pipelines, and analytics solutions.
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student specializing in Cloud Computing.
-- ☁️ Interested in cloud architecture and data engineering.
+- ☁️ Focused on cloud engineering, AWS, and data engineering.
 - 🐍 Working with Python and SQL for data processing and analytics.
-- 🌦️ Building ClimatePulse, a weather and air quality data pipeline.
-- 📊 Developing SQL analytics and Power BI dashboards through CareerCompass.
-- 🚀 Focused on building practical, industry-relevant engineering projects.
+- 🔄 Exploring workflow orchestration and distributed data processing.
+- 🌦️ Developing ClimatePulse, a climate and air quality data pipeline.
+- 📊 Building SQL analytics and Power BI dashboards through CareerCompass.
+- 🚀 Interested in building scalable, reliable, and maintainable data systems.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### 💻 Programming & Databases
 
@@ -39,21 +42,32 @@ Building cloud projects, data pipelines, and analytics solutions.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### ☁️ Cloud & Development Tools
+### ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 📊 Data Engineering & Analytics
+### 🔄 Data Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+</p>
+
+### 📊 Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
   <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
@@ -64,43 +78,62 @@ Building cloud projects, data pipelines, and analytics solutions.
 
 ### 🌦️ ClimatePulse — Climate & Air Quality Data Pipeline
 
-A data engineering project focused on collecting, streaming, and analyzing weather and air quality data.
+A data engineering project focused on collecting, streaming, orchestrating, and analyzing weather and air quality data.
 
-**Highlights**
-- Weather and air quality ingestion using Python APIs.
-- Kafka topics for weather and air quality messages.
-- Docker-based development environment.
-- Amazon Athena and Power BI integration for cloud analytics.
+**Key Features**
 
-**Technologies:** Python, Apache Kafka, Docker, AWS, Amazon Athena, Power BI.
+- 🌤️ Ingests weather and air quality data using Python and Open-Meteo APIs.
+- 🔄 Uses Apache Kafka for weather and air quality message ingestion.
+- ⚙️ Uses Apache Airflow for workflow orchestration.
+- ☸️ Uses Kubernetes to run and manage containerized workloads.
+- 🐳 Uses Docker for containerized development.
+- ☁️ Integrates AWS data storage and analytics components.
+- 📊 Connects Amazon Athena with Power BI for cloud analytics.
 
-🔗 **[View ClimatePulse Repository](https://github.com/sahilmoghaiz/ClimatePulse)**
+**Technology Stack**
+
+Python • Apache Kafka • Apache Airflow • Kubernetes • Docker • AWS • Amazon S3 • Amazon Athena • Power BI
+
+🔗 **[Explore ClimatePulse](https://github.com/sahilmoghaiz/ClimatePulse)**
 
 ---
 
 ### 📊 CareerCompass — Student Placement Analytics
 
-A student placement analytics project combining relational database design, SQL analytics, and interactive Power BI dashboards.
+A student placement analytics platform combining database design, advanced SQL, and interactive Power BI dashboards.
 
-**Highlights**
-- MySQL database schema and data preparation.
-- 206 numbered SQL analytics queries.
-- Advanced SQL practice involving aggregations, CTEs, CASE statements, and window functions.
-- Six-page Power BI dashboard.
+**Key Features**
 
-**Technologies:** MySQL, SQL, Power BI.
+- 🗄️ Designed a MySQL database schema.
+- 📝 Developed 206 numbered SQL analytics queries.
+- 📈 Practiced aggregations, CASE statements, CTEs, and window functions.
+- 📊 Built a six-page Power BI dashboard.
+- 🎯 Focused on placement-related analytics and data-driven insights.
 
-🔗 **[View CareerCompass Repository](https://github.com/sahilmoghaiz/CareerCompass)**
+**Technology Stack**
+
+MySQL • SQL • Power BI
+
+🔗 **[Explore CareerCompass](https://github.com/sahilmoghaiz/CareerCompass)**
 
 ---
 
 ### 🎬 AWS Movie Recommendation Platform
 
-A movie recommendation application developed with a focus on frontend development and cloud application architecture.
+A movie recommendation application focused on frontend development and cloud-native application architecture.
 
-**Technologies:** React, JavaScript, AWS-focused development.
+**Project Focus**
 
-🔗 **[View Movie Recommendation Platform](https://github.com/sahilmoghaiz/aws-movie-recommendation-platform)**
+- 🎨 React-based frontend development.
+- ☁️ AWS serverless architecture.
+- 🔐 Cloud authentication and application integration.
+- 🗄️ Cloud-based data storage and backend services.
+
+**Planned Architecture**
+
+React • Amazon S3 • CloudFront • Cognito • API Gateway • Lambda • DynamoDB • CloudWatch • Terraform
+
+🔗 **[Explore Movie Recommendation Platform](https://github.com/sahilmoghaiz/aws-movie-recommendation-platform)**
 
 ---
 
@@ -118,15 +151,18 @@ A movie recommendation application developed with a focus on frontend developmen
 
 </div>
 
+*Statistics are generated by external services using available GitHub data. Language distribution reflects repository code, not necessarily programming proficiency.*
+
 ---
 
 ## 🎯 Current Focus
 
 - ☁️ Strengthening AWS and cloud engineering fundamentals.
 - 🐍 Improving Python for data processing and automation.
-- 📊 Developing advanced SQL and analytical skills.
-- 🔄 Building practical data ingestion and processing pipelines.
-- 🚀 Improving project documentation and cloud architecture knowledge.
+- 📊 Developing advanced SQL and analytics skills.
+- 🔄 Understanding data pipeline orchestration with Apache Airflow.
+- ☸️ Learning container orchestration with Kubernetes.
+- 🚀 Building practical, industry-relevant cloud data engineering projects.
 
 ---
 
@@ -150,6 +186,6 @@ A movie recommendation application developed with a focus on frontend developmen
 
 ⭐ Thanks for visiting my profile!
 
-*Always learning. Always building.*
+**Always learning. Always building. Always improving.**
 
 </div>
