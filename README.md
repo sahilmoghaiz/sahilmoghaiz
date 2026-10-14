@@ -1,98 +1,99 @@
-# Hi, I'm Sahil Moghaiz
+# Hi, I'm Sahil Moghaiz 👋
 
-### Cloud & Data Engineering | AWS | Python | SQL
+### Aspiring Cloud Data Engineer | AWS | Python | SQL
 
-I'm a Computer Science Engineering student specializing in Cloud Computing
-at SRM Institute of Science and Technology, Chennai.
+🎓 Computer Science Engineering student specializing in Cloud Computing at SRM Institute of Science and Technology, Chennai.
 
-I'm passionate about building cloud-native applications, data pipelines,
-and analytics platforms using AWS, Python, SQL, and modern data engineering
-technologies.
+I'm passionate about cloud computing, data engineering, and building scalable applications and data pipelines using modern technologies.
 
-Currently strengthening my skills in cloud data engineering, distributed
-data processing, and scalable cloud architectures.
+Currently focusing on strengthening my AWS, Python, SQL, and cloud data engineering skills through hands-on projects.
+
+---
+
+## 📄 Resume
+
+📥 **[View My Resume](./Sahil_Moghaiz_Resume.pdf)**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌦️ ClimatePulse — Climate & Air Quality Data Pipeline
-A data engineering project focused on collecting, processing, and analyzing
-weather and air quality data.
 
-- Weather and air quality data ingestion using Python APIs
-- Kafka-based streaming and message ingestion
-- Data processing and analytics pipeline development
-- AWS analytics integration with Amazon Athena and Power BI
+A data engineering project focused on collecting, processing, and analyzing weather and air quality data.
 
-**Tech:** Python, Kafka, Docker, AWS, Amazon Athena, Power BI
+- Weather and air quality data ingestion using Python APIs.
+- Kafka-based streaming and message ingestion.
+- Docker-based development environment.
+- Cloud analytics integration with Amazon Athena and Power BI.
+
+**Technologies:** Python, Apache Kafka, Docker, AWS, Amazon Athena, Power BI
+
+🔗 [View Repository](https://github.com/sahilmoghaiz/ClimatePulse)
 
 ### 📊 CareerCompass — Student Placement Analytics
-A student placement analytics platform built to explore coding performance
-and placement-related data through SQL analytics and Power BI dashboards.
 
-- Designed a MySQL database schema
-- Developed 200+ SQL analytics queries
-- Practiced advanced SQL, including CTEs and window functions
-- Built interactive Power BI dashboards
+A student placement analytics platform designed to analyze coding performance and placement-related data.
 
-**Tech:** MySQL, SQL, Power BI, AWS RDS
+- Designed a MySQL database schema.
+- Developed 206 SQL analytics queries.
+- Practiced advanced SQL, including CTEs, CASE statements, and window functions.
+- Built a six-page Power BI dashboard.
+
+**Technologies:** MySQL, SQL, Power BI, AWS RDS
+
+🔗 [View Repository](https://github.com/sahilmoghaiz/CareerCompass)
 
 ### 🎬 AWS Movie Recommendation Platform
-A cloud-native movie recommendation application designed around AWS
-serverless architecture.
 
-- React-based frontend
-- Serverless backend architecture
-- Cloud-based authentication and data storage
-- Infrastructure automation and monitoring
+A movie recommendation application focused on cloud-native application development and AWS architecture.
 
-**Tech:** React, AWS Lambda, API Gateway, DynamoDB, Cognito,
-S3, CloudFront, CloudWatch, Terraform
+**Technologies:** React, JavaScript, AWS
+
+🔗 [View Repository](https://github.com/sahilmoghaiz/aws-movie-recommendation-platform)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-### Programming & Databases
+**Programming Languages**
 - Python
 - SQL
-- MySQL
 - JavaScript
 
-### Cloud & Infrastructure
+**Cloud & Infrastructure**
 - Amazon Web Services (AWS)
 - Docker
 - Terraform
 - Git & GitHub
 
-### Data Engineering & Analytics
+**Data Engineering & Analytics**
 - Apache Kafka
-- PySpark
-- Data Ingestion & Processing
+- Data Ingestion
+- Data Processing
+- MySQL
 - Amazon Athena
 - Power BI
 
-### Currently Learning
-- Cloud Data Engineering
-- Distributed Data Processing
-- Data Pipeline Orchestration
-- AWS Architecture & Infrastructure as Code
+---
+
+## 🎯 Current Focus
+
+- Building practical cloud data engineering projects.
+- Strengthening AWS cloud architecture fundamentals.
+- Improving Python and SQL for data engineering.
+- Learning scalable data processing and pipeline orchestration.
+- Developing real-world skills through hands-on implementation.
 
 ---
 
-## 🎯 Current Goals
+## 🤝 Connect With Me
 
-- Strengthen my cloud data engineering fundamentals
-- Build practical, production-oriented data pipelines
-- Improve my understanding of AWS architecture and cloud services
-- Develop scalable data processing and analytics solutions
+📧 Email: sahilmoghaiz@y@gmail.com
 
+💻 GitHub: [sahilmoghaiz](https://github.com/sahilmoghaiz)
+
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sahil-moghaiz-73b68b27a/)
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in learning about cloud computing,
-data engineering, and interesting technical projects.
-
-**GitHub:** [@sahilmoghaiz](https://github.com/sahilmoghaiz)
+⭐ I'm always interested in cloud computing, data engineering, and building useful technology.
